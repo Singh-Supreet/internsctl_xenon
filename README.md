@@ -15,6 +15,6 @@ In the main branch, you will find a Linux command script (`internsctl.sh`) that 
 
 ## Screenshot
 
-![Screenshot](E:\Documents\Project\Xenon\internctl linux\Task 1.jpeg)
-![Screenshot](E:\Documents\Project\Xenon\internctl linux\Task 2.jpeg)
-![Screenshot](E:\Documents\Project\Xenon\internctl linux\Task 3.jpeg)
+![Screenshot](https://github.com/Singh-Supreet/internsctl_xenon/blob/main/Task%201.jpeg)
+![Screenshot](https://github.com/Singh-Supreet/internsctl_xenon/blob/main/Task%202.jpeg)
+![Screenshot](https://github.com/Singh-Supreet/internsctl_xenon/blob/main/Task%203.jpeg)
